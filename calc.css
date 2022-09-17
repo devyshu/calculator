@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg1{
+    background-color: teal;
+}
+.heading{
+    color:lightcoral;
+    text-align: center;
+    
+}
+.calculator{
+    width:350px;
+    background-color: lavender;
+    padding: 30px;
+    border-radius:10px ;
+}
+.res{
+    height: 40px;
+    width:100%;
+    border-radius: 5px;
+    padding: 5px;
+}
+.buttons{
+    text-align: center;
+    padding: 30px;
+}
+.btn1{
+    height:50px;
+    width:50px;
+    margin:4px;
+    margin-top: 0px;
+}
